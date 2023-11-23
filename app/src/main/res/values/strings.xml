@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+
+    <string name="item_title">Spend 15 minutes outdoor</string>
+    <string name="day">1</string>
+    <string name="body">We are sharing a screenshot of the user interface (UI) of our sample app so you have something to refer to, but use this opportunity to make an app your own by using your own imagery, text, and layout.</string>
+    <string name="expand_button_content_description">todo\n</string>
+
+
+</resources>
